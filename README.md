@@ -1,2 +1,2 @@
-# 40key-keyboard
-The PCB of 40key-keyboard made by KICAD
+# 40keys-keyboard
+The PCB of 40keys-keyboard made by KICAD
